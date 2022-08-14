@@ -1,0 +1,81 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    background-color: #580FFF;
+}
+form{
+    width:50%;
+    height:60%;
+    margin-left: 30%;
+    margin-top: 10%;
+    padding-top:10px;
+    padding-bottom:20px;
+    padding-left:80px;
+    position: absolute;
+    background-color: #FCF8E8;
+    border-radius: 15px;
+    border-color: #d2d2d2;
+    border-width: 5px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+    font-size:50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    margin:0;
+    padding-right:50px;
+    text-align: center;
+}
+#emailID{
+    border-radius:7px;
+    border:1px solid black;
+    width:80%;
+    height:40px;
+    padding:5px 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+
+#password{
+    border-radius:7px;
+    border:1px solid black;
+    width:80%;
+    height:40px;
+    padding:5px 5px;
+    margin: 5px;
+    font-size: 20px;
+}
+input[type=submit]{
+    background-color: #5800FF;
+    color:white;
+    text-decoration: none;
+    border-radius: 7px;
+    border:none;
+    width:80%;
+    height:40px;
+    padding:5px 5px;
+    margin: 4px 2px;
+    font-size:20px;
+}
+input[type=submit]:hover{
+    background-color:  #6d29ed;
+}
+p{
+    margin:0;
+    padding-right:50px;
+    text-align:center;
+}
+#errorbox1{
+    color:red;
+}
+#errorbox2{
+    color:red;
+}
+
+
+
+
+

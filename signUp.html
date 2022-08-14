@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SignUp</title>
+    <link rel="stylesheet" href="./signUp.css">
+    <script src="./signUp.js"></script>
+</head>
+<body>
+   <div class="signUpPage">
+    <form name="signUpForm" onsubmit="return form2()">
+     <h1>SignUp</h1>
+      
+     <div>
+        <label for="name">Name:</label><br>
+        <input type="name" id="name" placeholder="Enter your name" class="btn"><br><br>
+    </div>
+     
+    <div id="errorbox1"></div>
+     
+
+    <div>
+        <label for="emailID">EmailID:</label><br>
+        <input type="email" id="emailID" placeholder="Enter your Email ID" class="btn"><br><br>
+    </div>
+
+    <div id="errorbox2"></div>
+
+    <div>
+        <label for="password">Password:</label><br>
+        <input type="password" id="password" placeholder="Enter your password" class="btn"><br><br>
+    </div>
+
+    <div id="errorbox3"></div>
+
+    <div>
+        <label for="retypepassword">Re-type Password:</label><br>
+        <input type="password" id="retypepassword" placeholder="Re-type your password" class="btn"><br><br>
+    </div>
+
+    <div id="errorbox4"></div><br>
+
+    <div>
+        <input type="submit" value="SignUp">
+    </div>
+
+    <p>Already have an account?<a href="/login.html" target="_blank" rel="noreferrer">Login here.</a> </p>
+
+    </form>
+   </div> 
+    
+</body>
+</html>
