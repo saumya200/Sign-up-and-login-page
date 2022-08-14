@@ -2,8 +2,9 @@
 
 #CREWORK WEEK-4 TASK !!
 
-![login form](https://user-images.githubusercontent.com/64263080/184535187-161aa9a4-2993-4bd6-9274-5b4126a1a471.JPG)
-![signUp](https://user-images.githubusercontent.com/64263080/184535195-e487b6bd-cb79-41dd-bff2-75f015c7f652.JPG)
+![login](https://user-images.githubusercontent.com/64263080/184535293-8d05e6fe-1901-4f95-9982-51ccc20ba1b3.JPG)
+![signUp form](https://user-images.githubusercontent.com/64263080/184535296-2af584a1-8f02-4261-ae36-d567563478f5.JPG)
+
 
  
 
